@@ -44,10 +44,61 @@ cash,check, credit card, weekly, monthly, quarterly, yearly
 
 # Travel
 
+## Destination
+
+art gallery
+beach, bushland
+castle, cave, cinema. cottage, church, concert 
+desert,
+factory, forest 
+garden
+museum, mountain
+opera house,
+palace,
+rainforest,
+theater, temple, tower,
+village
+waterfall, wetland
+
+
+## Activities
+bush walking
+cycling, climbing
+diving, dolphins watch
+fishing
+golf training
+horse riding, hiking
+ice-skating
+massage
+navigation
+surfing, skiing, sailing, snowboarding, shopping
+whales watch
+
+
+
+## Transport
+
+airplane, aircraft
+bike, bicycle, bus, boat
+camel, cable car, cab, caravan, coach, cruise
+ferry
+horse, helicopter
+lift,
+minibus,
+plane,
+subway, shuttle, ship, scooter
+tube, truck, tram, taxi, train
+wheelchair
+
 
 
 
 # Job seeking
+
+## 
+
+
+
 
 
 
