@@ -3,6 +3,8 @@
 # Personal Background Information (PBI) & Survival English Vocabulary (SEV)
 
 # Housing
+
+## Type
 apartment
 bedsit
 cabin
@@ -12,6 +14,31 @@ house,"hostel", hall of residence,"hotel", homestay, host family
 shared house, studio apartment, suite
 triple room
 villa
+
+## Facilities
+bathroom, bedroom, basement, balcony
+dining room, 
+garage,gym
+kitchen, 
+living room, lounge, laundry
+parking lot/ area
+storeroom, swimming pool, study, shared room
+yard
+
+## Applicance
+
+cabinet, chair, cooker, cupboard
+dishwasher
+fridge, refrigerator
+lamp
+microwave
+oven
+toaster
+washing machine
+
+
+## Payment
+cash,check, credit card, weekly, monthly, quarterly, yearly
 
 
 
