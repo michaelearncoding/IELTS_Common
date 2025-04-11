@@ -152,10 +152,85 @@ promotion, pension, paid leave
 tea break, time off, training 
 vacation 
 
+## Documentation
+
+application form
+bank statement
+certificate 
+driving license
+ID card
+letter of recommendation
+passport
+reference, resume
+
 
 # Consultant & other business
+advertisement/ adverts/ ads
+brochure, booklet
+colleague
+College
+friend
+internet
+leaflet
+magazine, mail
+newspaper, newsletter, noticeboard, neighbor
+online 
 
 
+## Membership
+basic, standar, advanced
+gold, silver, bronze,
+full-time, part-time, joint
+peak, off-peak
+
+
+## Type of club
+
+arts
+badminton
+cycling
+dance
+golf, gym, goodbye party
+hockey
+kick-boxing, keep-fit
+jogging, judo
+sports, swimming, soccer
+tennis
+yoga, youth council
+
+
+
+## Age group 
+adult 
+children
+elder
+kid
+infant
+junior
+mature
+senior
+teenager
+older
+youth youngster
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
 
 
 
